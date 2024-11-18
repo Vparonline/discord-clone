@@ -45,3 +45,5 @@ Database:
 If you would like to contribute to this project, you can send a Pull Request or submit bug/feature requests from the Issues tab.
 
 As the project progresses, new features will be added and documentation will be updated.
+
+We are looking for front-end developer friends who want to work on our project. You can contact me via <a href="https://discord.com/users/1067476859933179954">discord</a>.
