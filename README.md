@@ -12,25 +12,24 @@ Frontend:
 
 Backend:
 
-Language: Node.js
-Frame: Express.js
+- Language: Node.js
+- Frame: Express.js
 
 Database:
 
-MySQL for user server information and message storage
-MongoDB for user account information
+- MySQL for user server information and message storage
+- MongoDB for user account information
 
 # Installation Operation
 
-git clone https://github.com/Vparonline/discord-clone.git
+- git clone https://github.com/Vparonline/discord-clone.git
+- cd syncord_App_frontend
+- npm install
+- node .
 
-cd frontend
-npm install
-node .
-
-cd backend
-npm install
-node .
+- cd syncord_App_backend
+- npm install
+- node .
 
 # Image
 ![image](https://github.com/user-attachments/assets/13479121-6e07-4c45-9a0b-cf029d96f38c)
