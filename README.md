@@ -2,7 +2,7 @@
 
 This repository is designed to create a modern Discord-like chat and communication application. Our goal is to develop an application that provides the basic functionality of Discord, such as real-time messaging, audio and video calls, user profiles, server and channel management.
 
-# Kullanılan Teknolojiler
+# Languages and Frameworks Used
 
 Frontend:
 
