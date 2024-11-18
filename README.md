@@ -22,14 +22,19 @@ Database:
 
 # Installation Operation
 
+- Run the backend first, otherwise the system will not work because there is no api access!
+
 - git clone https://github.com/Vparonline/discord-clone.git
-- cd syncord_App_frontend
-- npm install
-- node .
 
 - cd syncord_App_backend
 - npm install
 - node .
+
+- cd syncord_App_frontend
+- npm install
+- node .
+
+
 
 # Image
 ![image](https://github.com/user-attachments/assets/13479121-6e07-4c45-9a0b-cf029d96f38c)
